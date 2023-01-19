@@ -9,7 +9,7 @@
     padding: 20px;
 }
 .example-form mat-slide-toggle {
-    margin: 8px 0;
+    margin: 8px 8px 2px 8px;
     width: 89px;
     display: block;
 }
