@@ -64,11 +64,11 @@ export class HomeComponent {
     }
     dividir(){
       //this.resultado2 = this.valor1 * this.valor2;
-      this.resultado =this.valor1 * this.valor2;  
+      this.resultado =this.valor1 / this.valor2;  
     }
     multiplicar(){
       //this.resultado2 = this.valor1 / this.valor2;
-      this.resultado =this.valor1 / this.valor2;    
+      this.resultado =this.valor1 * this.valor2;    
     }
   
 
